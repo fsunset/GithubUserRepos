@@ -1,0 +1,24 @@
+.app {
+  text-align: center; }
+  .app header {
+    align-items: center;
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 3vh;
+    min-height: 15vh; }
+  .app .container {
+    margin-bottom: 4vh; }
+    .app .container .MuiInputAdornment-root.MuiInputAdornment-positionEnd {
+      display: none; }
+    .app .container .MuiPaper-root {
+      margin-top: 4vh; }
+    .app .container form input {
+      padding: 1vw;
+      margin-bottom: 2vh;
+      text-align: center;
+      width: 30vw; }
+    .app .container li {
+      list-style: none; }
